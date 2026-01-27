@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6bdb722e8471ee6f",
+        "id": "0f32197bd0887661",
         "type": "tabs",
         "children": [
           {
-            "id": "92e507d853c6e675",
+            "id": "978df7283e9b80d8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-01-26 13.41.18.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-26 13.41.18.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -76,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1a769a76435f9907",
@@ -185,14 +182,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92e507d853c6e675",
+  "active": "452e0fea7577a5b4",
   "lastOpenFiles": [
+    "Excalidraw/idea-brainstorming.excalidraw.md",
     "Capstone.md",
     "youtube-sentiment-semantic-analysis-rough-plan.md",
     "Proposal Draft.md",
     "Project Research For Retrieval Augmented Generation.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2026-01-26 13.41.18.excalidraw.md",
     "Excalidraw",
     "ChromaDB.md",
     "LangChain.md"
