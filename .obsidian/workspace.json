@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Research For Retrieval Augmented Generation.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Research For Retrieval Augmented Generation"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -186,8 +186,14 @@
   },
   "active": "ddcf9add91876e5e",
   "lastOpenFiles": [
-    "ChromaDB.md",
     "Project Research For Retrieval Augmented Generation.md",
+    "conflict-files-obsidian-git.md",
+    "youtube-sentiment-semantic-analysis-rough-plan.md",
+    "Proposal Draft.md",
+    "Excalidraw/Drawing 2026-01-26 13.41.18.excalidraw.md",
+    "Excalidraw",
+    "Capstone.md",
+    "ChromaDB.md",
     "LangChain.md"
   ]
 }
