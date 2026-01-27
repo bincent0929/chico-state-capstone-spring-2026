@@ -1,0 +1,1 @@
+Based on the information from [here](https://docs.langchain.com/oss/python/langchain/overview), LangChain will allow me to create agents that I can interact with in my code and have utilize functions in my code.

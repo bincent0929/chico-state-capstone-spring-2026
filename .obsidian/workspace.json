@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fee5f5cc3d062f2e",
+        "id": "5cf7a646d08e823d",
         "type": "tabs",
         "children": [
           {
-            "id": "6320f76c9dd64e48",
+            "id": "ddcf9add91876e5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,8 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6320f76c9dd64e48",
+  "active": "ddcf9add91876e5e",
   "lastOpenFiles": [
-    "Project Research For Retrieval Augmented Generation.md"
+    "ChromaDB.md",
+    "Project Research For Retrieval Augmented Generation.md",
+    "LangChain.md"
   ]
 }
